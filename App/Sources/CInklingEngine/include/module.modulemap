@@ -1,0 +1,4 @@
+module CInklingEngine {
+    header "inkling_engine.h"
+    export *
+}

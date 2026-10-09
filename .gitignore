@@ -1,0 +1,12 @@
+# Build output (signed app bundles, icons, test pages)
+build/
+App/.build/
+engine/target/
+*.app
+*.dSYM
+
+# Editors / OS
+.DS_Store
+.swiftpm/
+.vscode/
+.idea/
